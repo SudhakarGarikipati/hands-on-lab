@@ -20,10 +20,10 @@ locations:
     mappingDefinitions:
       "2":
         database: PC_COALESCE_DB
-        schema: ""
+        schema: TEST1
       "3":
-        database: ""
-        schema: ""
+        database: PC_COALESCE_DB
+        schema: PROD1
 macros: {}
 packages: {}
 projects: {}
